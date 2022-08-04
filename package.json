@@ -20,5 +20,8 @@
     "mongoose": "^6.5.1"
   },
   "devDependencies": {
+  },
+  "engines": {
+    "node": "17.7.2"
   }
 }
